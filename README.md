@@ -1,1 +1,1 @@
-# Tutorial at CIRM
+# Tutorial on Basic Machine Learning at CIRM
