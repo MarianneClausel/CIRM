@@ -7,6 +7,9 @@ Lectures and labs may be found on this github repository. Slides and stuff of th
 M. Mohri, A. Rostamizadeh, and A. Talwalkar Foundations of Machine Learning : https://cs.nyu.edu/~mohri/mlbook/ 
 # On t-SNE
 The github account of L. ven der Maaten : https://lvdmaaten.github.io/tsne/
+# A nice survey on Random Forest
+R. Genuer, J.M. Poggi, C. Tuleau-Malot, N. Vialaneix. Random Forests
+for Big Data. Big Data Research, Elsevier, 2017 https://hal.archives-ouvertes.fr/hal-01233923/document
 # On Quantile Regression
 The paper of R. Koenker et al. : https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.4.143
 # On Quantile Random Forest
