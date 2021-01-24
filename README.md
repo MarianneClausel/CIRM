@@ -3,6 +3,7 @@
 Lectures and labs may be found on this github repository
 
 # Some references
+# A general book on ML theory : https://cs.nyu.edu/~mohri/mlbook/ 
 # On t-SNE
 The github account of L. ven der Maaten : https://lvdmaaten.github.io/tsne/
 # On Quantile Regression
