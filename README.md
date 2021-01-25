@@ -16,6 +16,4 @@ for Big Data. Big Data Research, Elsevier, 2017 https://hal.archives-ouvertes.fr
 The paper of R. Koenker et al. : https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.4.143
 # On Quantile Random Forest
 The paper of N. Meinhausen : https://jmlr.org/papers/volume7/meinshausen06a/meinshausen06a.pdf
-# On interpretable machine learning
-An online book : https://christophm.github.io/interpretable-ml-book/
 
