@@ -1,6 +1,6 @@
 # Tutorial on Basic Machine Learning at CIRM
 
-Lectures and labs may be found on this github repository. Slides and stuff of this mini-course are inspired by other lectures and material of many colleagues : M.R. Amini, C. Azencott, F. Iutzeler, N. Thome...Feel free to visit their website! 
+Lectures and labs may be found on this github repository. Slides and stuff of this mini-course are inspired by other lectures and material of M.R. Amini, C. Azencott, F. Iutzeler, N. Thome...Feel free to visit their website! 
 
 # Some references
 # A general book on ML theory : 
